@@ -9,7 +9,7 @@
 
 (*
   The goal of this document is to inspire future generations
-  to adopt machine readable conventions to describe APIs, when practical.
+  to adopt machine readable conventions to describe APIs, whenever practical.
 
   This example is a valid OCaml program, and shall serve as an introduction
   to variant types (aka tagged unions, sum types, or algebraic data types).
